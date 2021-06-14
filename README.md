@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OceanDip
 - 👀 I’m interested in FPGA design.
 - 🌱 I’m currently learning VHDL, digital logic, and FPGA design.
-- 💞️ I’m looking to collaborate on FPGA design.
+- 💞️ I’m looking to collaborate on digital designs.
 - 📫 How to reach me Enrique.Rosas01@student.csulb.edu
 
 <!---
